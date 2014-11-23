@@ -1,0 +1,16 @@
+apply plugin: 'application'
+
+mainClassName = "org.axhm3a.jm3boilerplate.DesktopMain"
+version = '1.0'
+
+repositories {
+    mavenCentral()
+    maven {
+        url 'http://updates.jmonkeyengine.org/maven'
+    }
+}
+
+dependencies {
+    compile project(':core')
+    compile 'com.jme3:jme3-desktop:3.0.+'
+}

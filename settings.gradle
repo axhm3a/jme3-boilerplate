@@ -1,0 +1,5 @@
+rootProject.name = 'jme3-boilerplate'
+
+include 'android'
+include 'core'
+include 'desktop'
