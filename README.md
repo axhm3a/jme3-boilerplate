@@ -4,7 +4,7 @@ jme3-boilerplate
 gradle boilerplate for jMonkeyEngine 3.0 projects
 
 - desktop + android building
-- jme3 is satisfied by maven
+- jme3 dependencies are satisfied by maven
 - android sdk has to be provided in `local.properties`
 
 android dependencies
