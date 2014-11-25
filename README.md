@@ -12,3 +12,7 @@ android dependencies
 - android sdk build tools 21.1.1
 - android support repository 8
 - android support library 21.0.1
+
+License
+-------
+New BSD License, see `license.md`
