@@ -37,7 +37,6 @@ android {
 
 dependencies {
     compile project(':core')
-    compile 'com.jme3:jme3-core:3.0.+'
     compile 'com.jme3:jme3-android:3.0.+'
     compile 'com.android.support:appcompat-v7:19.+'
 }
